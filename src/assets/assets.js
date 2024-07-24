@@ -82,14 +82,14 @@ export const albumsData = [
         name: "Top 50 UK",
         image: img9,
         desc:"Your weekly update of the most played tracks",
-        bgColor:"#22543d"
+        bgColor:"#EC1E32"
     },
     {   
         id:2,
         name: "Trending UK",
         image: img10,
         desc:"Your weekly update of the most played tracks",
-        bgColor:"#742a2a"
+        bgColor:"#C87D55"
     },
     {   
         id:3,
